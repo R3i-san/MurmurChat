@@ -1,0 +1,58 @@
+[
+  {
+    "DOMAIN_NAME": "laurent.godswila.guru",
+    "SALT_SIZE": 14,
+    "BROADCAST_ADDRESS": "224.1.1.255",
+    "UNICAST_CLIENT_PORT": 23103,
+    "UNICAST_RELAY_PORT": 23113,
+    "BROADCAST_PORT": 23000,
+    "AES_KEY": "FRF2oVl3GBrIzXAK6yD0Y+osQNrTSjociKvljLnbbB4=",
+    "PUBLIC_AES_KEY": "g5KUyp12bE4LPGZJ7URYwspVUa2RMjuB4FudTnNe3ZY=",
+    "U_REPO_PATH": "/src/main/resources/json/server1/server1_register.json",
+    "F_REPO_PATH": "/src/main/resources/json/server1/server1_follows.json",
+    "T_REPO_PATH": "/src/main/resources/json/server1/server1_trends.json",
+    "RT_REPO_PATH": "/src/main/resources/json/server1/server1_remote_trends.json",
+    "BROADCAST_WAIT_TIME": 15000,
+    "AES_KEY_SIZE": 256,
+    "GCM_IV_LENGTH": 12,
+    "GCM_TAG_LENGTH": 16
+  },
+
+  {
+    "DOMAIN_NAME": "david.godswila.guru",
+    "SALT_SIZE": 14,
+    "BROADCAST_ADDRESS": "224.1.1.255",
+    "UNICAST_CLIENT_PORT": 23203,
+    "UNICAST_RELAY_PORT": 23213,
+    "BROADCAST_PORT": 23000,
+    "AES_KEY": "hMfmeWr62Xx01YTba6zncqIDebAe9qcPpeAIPOPVs74=",
+    "PUBLIC_AES_KEY": "g5KUyp12bE4LPGZJ7URYwspVUa2RMjuB4FudTnNe3ZY=",
+    "U_REPO_PATH": "/src/main/resources/json/server2/server2_register.json",
+    "T_REPO_PATH": "/src/main/resources/json/server2/server2_trends.json",
+    "F_REPO_PATH": "/src/main/resources/json/server2/server2_follows.json",
+    "RT_REPO_PATH": "/src/main/resources/json/server2/server2_remote_trends.json",
+    "BROADCAST_WAIT_TIME": 15000,
+    "AES_KEY_SIZE": 256,
+    "GCM_IV_LENGTH": 12,
+    "GCM_TAG_LENGTH": 16
+  },
+
+  {
+      "DOMAIN_NAME": "samuel.godswila.guru",
+      "SALT_SIZE": 14,
+      "BROADCAST_ADDRESS": "224.1.1.255",
+      "UNICAST_CLIENT_PORT": 23303,
+      "UNICAST_RELAY_PORT": 23313,
+      "BROADCAST_PORT": 23000,
+      "AES_KEY": "+dgnlxe7JuVCUA3/yPi99HPJpJsjlkDxHKDe4mkb9u0=",
+      "PUBLIC_AES_KEY": "g5KUyp12bE4LPGZJ7URYwspVUa2RMjuB4FudTnNe3ZY=",
+      "U_REPO_PATH": "/src/main/resources/json/server2/server2_register.json",
+      "T_REPO_PATH": "/src/main/resources/json/server2/server2_trends.json",
+      "F_REPO_PATH": "/src/main/resources/json/server2/server2_follows.json",
+      "RT_REPO_PATH": "/src/main/resources/json/server1/server1_remote_trends.json",
+      "BROADCAST_WAIT_TIME": 15000,
+      "AES_KEY_SIZE": 256,
+      "GCM_IV_LENGTH": 12,
+      "GCM_TAG_LENGTH": 16
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "domain":"laurent.godswila.guru",
+    "aesKey":"FRF2oVl3GBrIzXAK6yD0Y+osQNrTSjociKvljLnbbB4="
+  },
+  {
+    "domain":"samuel.godswila.guru",
+    "aesKey":"+dgnlxe7JuVCUA3/yPi99HPJpJsjlkDxHKDe4mkb9u0="
+  },
+  {
+    "domain":"david.godswila.guru",
+    "aesKey":"hMfmeWr62Xx01YTba6zncqIDebAe9qcPpeAIPOPVs74="
+  },
+  {
+    "domain":"nasser.godswila.guru",
+    "aesKey":"eZWXmi1o/yWQxL3nm379fkDdwjvQ9/9MLIhnuBBQhpI="
+  }
+]
